@@ -1,5 +1,5 @@
 # Hepatitis C Prediction Using Feature Selection by Machine Learning Technique
-### This research work was presented at the International Conference ICCRET 2023 at Brainware University and later published as a book chapter in ## Medical Robotics and AI-Assisted Diagnostics for a High-Tech Healthcare Industry ## by IGI Global Publishers in 2024.
+### This research work was presented at the International Conference ICCRET 2023 at Brainware University and later published as a book chapter in "Medical Robotics and AI-Assisted Diagnostics for a High-Tech Healthcare Industry" by IGI Global Publishers in 2024.
 Early disease prediction is crucial for timely medical intervention. This study proposes a machine learning-based framework for Hepatitis C detection using a Kaggle dataset of 564 patients with 12 features. We compare models with and without Gain Ratio Attribute Evaluation (GRAE) for feature selection. Classifiers including Logistic Regression, Naïve Bayes, Decision Tree, SVM, Random Forest, and MLP are evaluated. Results show that GRAE-based selection improves classification accuracy, with Decision Tree and Random Forest achieving 100% accuracy using only six features.
 
 ![image](https://github.com/user-attachments/assets/1d414fd0-1cc2-48dc-8d53-d16c09e4353a)
