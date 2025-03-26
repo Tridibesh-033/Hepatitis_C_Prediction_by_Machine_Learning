@@ -1,11 +1,12 @@
-# Hepatitis_C_Prediction_by_Machine_Learning
+# Hepatitis C Prediction Using Feature Selection by Machine Learning Technique
 ![image](https://github.com/user-attachments/assets/1d414fd0-1cc2-48dc-8d53-d16c09e4353a)
 ![image](https://github.com/user-attachments/assets/bfbde0a1-e015-4c6b-aad8-5bceb85ea35c)
 ![image](https://github.com/user-attachments/assets/ea36fc09-caa6-4368-862c-baaf88b04e26)
 ![image](https://github.com/user-attachments/assets/c14511a0-f381-48f4-8620-4becacf725e2)
 ![image](https://github.com/user-attachments/assets/2cd21140-804c-4216-9b8f-81d605e91bc1)
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/7914142a-47e8-450b-9144-b8df25820589)
+![image](https://github.com/user-attachments/assets/405a8c21-8588-48bb-88dc-927ecb40da86)
+![image](https://github.com/user-attachments/assets/e5d1a0e5-2f53-4fed-9d7d-4cb93d6641af)
+![image](https://github.com/user-attachments/assets/df7c8d59-15f6-461d-ad53-c5675c38e788)
+![image](https://github.com/user-attachments/assets/3aeb1025-7a7e-4b1e-81e4-653d72c88ee1)
+![image](https://github.com/user-attachments/assets/bcfd9c3e-57ef-44f0-9dba-9e78968ef358)
